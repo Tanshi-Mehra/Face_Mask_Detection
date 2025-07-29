@@ -29,5 +29,5 @@ A real-time face mask detection system using deep learning and computer vision. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/diksha-1234/face-mask-detection.git
+git clone https://github.com/Tanshi-Mehra/Face_Mask_Detection.git
 cd face-mask-detection
